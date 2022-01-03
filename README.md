@@ -1,0 +1,3 @@
+# COVID Predictions
+
+This repo contains ML models to be trained on COVID-19 data from the UK, sourced off of [Kaggle](https://kaggle.com) [here](https://www.kaggle.com/vascodegama/uk-covid19-data). This uses many different ML models, trains them and then uses them to predict days into the future. The data is now outdated, since, at the time of downloading, the archive contained only data up until the 12th December 2021.
